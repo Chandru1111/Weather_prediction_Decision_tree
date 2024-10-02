@@ -2,7 +2,7 @@ Hi 👋, I'm Chandru S
 # Weather_prediction_Decision_tree
 This project aims to predict weather conditions based on various meteorological parameters such as temperature, humidity, wind speed, and pressure. The dataset used in this project is weather_data_sample.csv.
 
-#Project Overview
+# Project Overview
 The project involves the following key steps:
 
 Data Loading and Exploration: The dataset is loaded and explored to understand its structure and check for missing values.
@@ -34,5 +34,5 @@ Pair Plot: A pair plot is generated to visualize the pairwise relationships betw
 
 Histograms: Histograms are created to visualize the distribution of different features such as temperature, humidity, wind speed, and pressure.
 
-#Conclusion:
+# Conclusion:
 This project demonstrates a basic workflow for predicting weather conditions using a Decision Tree Classifier. The project includes data loading, preprocessing, model training, evaluation, and visualization steps. The visualizations help in understanding the data and the model's performance, providing insights into the relationships between different meteorological parameters.
